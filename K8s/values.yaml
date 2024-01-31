@@ -2,7 +2,7 @@ fernetKey: bWVHQU4xVlRpZ1ZKYTlGcTRRUWIybmVKNUpvNDE3QnQ=
 webserverSecretKey: bWVHQU4xVlRpZ1ZKYTlGcTRRUWIybmVKNUpvNDE3QnQ=
 executor: "KubernetesExecutor"
 
-#add
+#add dags
 dags:
   gitSync:
     enabled: true
